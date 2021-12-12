@@ -1,2 +1,8 @@
-# Helloworld-for-Rodos
-Basic separete helloworld project to be built with rodos
+```
+cmake -S . -B build
+cd build
+make
+
+./SimpleApp
+
+```
