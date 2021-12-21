@@ -4,7 +4,6 @@ project(
     SimpleApp
     VERSION 0.1.0
     DESCRIPTION "A test project for building an executable depending on an external library."
-    HOMEPAGE_URL " "
     LANGUAGES CXX C ASM
 )
 
@@ -17,4 +16,3 @@ set_target_properties(SimpleApp_Exe PROPERTIES
 )
 
 add_subdirectory(source)
-
